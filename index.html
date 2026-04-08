@@ -44,7 +44,7 @@
 
 <!-- SCROLL+EXIT-INTENT POPUP -->
 <div id="tax-popup">
-<button class="close-popup" onclick="document.getElementById('tax-popup').classList.remove('show')">×</button>
+<button class="close-popup" onclick="closePopup()">×</button>
 <h2>⚡ 2026 Tax Filing Complete</h2>
 <p><strong>70% Cheaper than TurboTax</strong><br>✅ IRS Authorized Partner<br>✅ 1040/1040-NR E-file Ready<br>✅ Direct Deposit Refunds 10 Days Fast<br>✅ Free Federal Filing</p>
 <a href="https://www.linkconnector.com/ta.php?lc=007949054186005142&atid=OfficialUSTaxReefunds" class="btn" style="width:100%;margin-top:20px;">File Taxes Now →</a>
@@ -52,9 +52,40 @@
 
 <script>
 let scrolled=false;
-window.addEventListener('scroll',()=>{if(window.scrollY>300&&!scrolled){document.getElementById('tax-popup').classList.add('show');scrolled=true;}});
-// Exit-intent
-document.addEventListener('mouseleave',e=>{if(e.clientY<0&&!scrolled){document.getElementById('tax-popup').classList.add('show');scrolled=true;}});
+let popupShown=localStorage.getItem('taxPopupShown')==='true';
+
+function closePopup(){
+  document.getElementById('tax-popup').classList.remove('show');
+  localStorage.setItem('taxPopupShown','true');
+}
+
+// SCROLL POPUP (cookie protected)
+window.addEventListener('scroll',()=>{ 
+  if(window.scrollY>300 && !scrolled && !popupShown){
+    document.getElementById('tax-popup').classList.add('show');
+    scrolled=true; popupShown=true;
+    localStorage.setItem('taxPopupShown','true');
+  }
+});
+
+// EXIT INTENT POPUP (cookie protected) 
+document.addEventListener('mouseleave',e=>{
+  if(e.clientY<0 && !scrolled && !popupShown){
+    document.getElementById('tax-popup').classList.add('show');
+    scrolled=true; popupShown=true;
+    localStorage.setItem('taxPopupShown','true');
+  }
+});
+
+// CLOSE BUTTON also sets cookie
+document.addEventListener('click',e=>{
+  if(e.target.classList.contains('close-popup')){
+    localStorage.setItem('taxPopupShown','true');
+  }
+});
+
+// Cookie expires in 7 days
+setTimeout(()=>{localStorage.removeItem('taxPopupShown');},7*24*60*60*1000);
 </script>
 </body>
 </html>
