@@ -1,8 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://brightlane.github.io/UsaTaxRefund/</loc></url>
-<url><loc>https://brightlane.github.io/UsaTaxRefund/where-my-refund.html</loc></url>
-<url><loc>https://brightlane.github.io/UsaTaxRefund/turbotax-alternative.html</loc></url>
-<url><loc>https://brightlane.github.io/UsaTaxRefund/free-tax-filing.html</loc></url>
-<url><loc>https://brightlane.github.io/UsaTaxRefund/1040-nr-cn.html</loc></url>
+
+  <!-- Home -->
+  <url>
+    <loc>https://brightlane.github.io/UsaTaxRefund/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Main Pages -->
+  <url>
+    <loc>https://brightlane.github.io/UsaTaxRefund/index.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://brightlane.github.io/UsaTaxRefund/blog.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://brightlane.github.io/UsaTaxRefund/about.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://brightlane.github.io/UsaTaxRefund/contact.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog System Pages (if used) -->
+  <url>
+    <loc>https://brightlane.github.io/UsaTaxRefund/blog-part1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://brightlane.github.io/UsaTaxRefund/blog-part2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://brightlane.github.io/UsaTaxRefund/blog-part3.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- SEO / Utility Pages -->
+  <url>
+    <loc>https://brightlane.github.io/UsaTaxRefund/privacy.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://brightlane.github.io/UsaTaxRefund/terms.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
 </urlset>
