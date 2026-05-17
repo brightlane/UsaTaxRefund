@@ -120,6 +120,98 @@ TREATIES = [
      "Can Indian H-1B workers who are US residents use the treaty?","Indian nationals who are US tax residents may still claim the same standard deduction as US citizens under the treaty — $14,600 single in 2025. This is a significant benefit not available to most other nonresident or resident alien filers.",
      "What other treaty benefits apply to Indian H-1B residents?","Consult a tax professional for your specific situation. The standard deduction provision is the most commonly cited benefit for Indian nationals who have become US residents."),
 
+    ("russia-tax-treaty-1040nr",      "🇷🇺","Russia",       "Article 18",  "Student and business apprentice maintenance payments exempt","F-1, J-1","Study period","Covers Russian students receiving payments from Russian sources",
+     "Does Russia treaty cover my US university TA wages?","Article 18 covers payments from Russian sources for maintenance and training. TA/RA wages from a US university are US-source income and not covered. You remain FICA exempt.",
+     "How do I claim the Russia treaty?","Schedule OI of Form 1040-NR: Treaty Country = Russia, Treaty Article = 18, exempt amount. Only Russian-source payments qualify."),
+
+    ("italy-tax-treaty-1040nr",        "🇮🇹","Italy",        "Article 20",  "Student maintenance and education payments from Italian sources exempt","F-1, J-1","Study period","Italian students receiving payments from Italian sources for US study",
+     "Does Italy treaty cover my OPT wages?","Article 20 covers payments from Italian sources. OPT wages from a US employer are US-source and not covered. You remain FICA exempt as a nonresident F-1 student.",
+     "How do I claim the Italy treaty?","Schedule OI: Treaty Country = Italy, Treaty Article = 20, exempt amount. Document Italian source of payments carefully."),
+
+    ("spain-tax-treaty-1040nr",        "🇪🇸","Spain",        "Article 21",  "Student and apprentice maintenance and training payments from Spanish sources exempt","F-1, J-1","Study period","Spanish students and trainees receiving payments from Spanish sources",
+     "Does Spain treaty cover my stipend from a US university?","Article 21 covers payments from Spanish sources only. Stipends paid by your US university are US-source and taxable. Payments from a Spanish government scholarship may be exempt.",
+     "How do I claim the Spain treaty?","Schedule OI: Treaty Country = Spain, Treaty Article = 21, exempt amount. Only Spanish-source payments qualify."),
+
+    ("switzerland-tax-treaty-1040nr",  "🇨🇭","Switzerland",  "Article 19",  "Student maintenance and education payments from Swiss sources exempt","F-1, J-1","Study period","Swiss students receiving payments from Swiss sources for US study",
+     "Does Switzerland treaty cover my research grant?","If the research grant comes from a Swiss source (ETH Zurich, Swiss NSF, Swiss government), Article 19 may apply. US-source grants are not covered.",
+     "How do I claim the Switzerland treaty?","Schedule OI: Treaty Country = Switzerland, Treaty Article = 19, exempt amount. Maintain clear documentation of Swiss source."),
+
+    ("norway-tax-treaty-1040nr",       "🇳🇴","Norway",       "Article 19",  "Student and business apprentice maintenance payments from Norwegian sources exempt","F-1, J-1","Study period","Norwegian students and trainees with Norwegian-source maintenance payments",
+     "Does Norway treaty cover OPT wages?","No — Article 19 covers Norwegian-source payments only. OPT wages from a US employer are US-source and taxable.",
+     "How do I claim the Norway treaty?","Schedule OI: Treaty Country = Norway, Treaty Article = 19, exempt income from Norwegian sources."),
+
+    ("denmark-tax-treaty-1040nr",      "🇩🇰","Denmark",      "Article 18",  "Student and business apprentice maintenance payments from Danish sources exempt","F-1, J-1","Study period","Danish students receiving payments from Danish sources for US study",
+     "Does Denmark treaty cover my Danish scholarship?","If your scholarship comes from a Danish source (Danish government, Danish university), Article 18 may apply to maintenance payments.",
+     "How do I claim the Denmark treaty?","Schedule OI: Treaty Country = Denmark, Treaty Article = 18, exempt amount. Only Danish-source payments qualify."),
+
+    ("finland-tax-treaty-1040nr",      "🇫🇮","Finland",      "Article 19",  "Student and business apprentice maintenance payments from Finnish sources exempt","F-1, J-1","Study period","Finnish students and trainees with Finnish-source maintenance payments",
+     "Does Finland treaty cover my US university stipend?","No — Article 19 covers Finnish-source payments only. US university stipends are US-source and taxable.",
+     "How do I claim the Finland treaty?","Schedule OI: Treaty Country = Finland, Treaty Article = 19, exempt income from Finnish sources."),
+
+    ("austria-tax-treaty-1040nr",      "🇦🇹","Austria",      "Article 20",  "Student maintenance and education payments from Austrian sources exempt","F-1, J-1","Study period","Austrian students and trainees receiving Austrian-source maintenance payments",
+     "Does Austria treaty cover my research grant from TU Vienna?","If the grant comes from an Austrian institution, Article 20 may apply. US-source grants are not covered.",
+     "How do I claim the Austria treaty?","Schedule OI: Treaty Country = Austria, Treaty Article = 20, exempt amount. Document Austrian source."),
+
+    ("belgium-tax-treaty-1040nr",      "🇧🇪","Belgium",      "Article 19",  "Student and business apprentice maintenance payments from Belgian sources exempt","F-1, J-1","Study period","Belgian students receiving Belgian-source maintenance payments for US study",
+     "Does Belgium treaty cover OPT wages?","No — Article 19 covers Belgian-source payments only. OPT wages from a US employer are US-source and taxable.",
+     "How do I claim the Belgium treaty?","Schedule OI: Treaty Country = Belgium, Treaty Article = 19, exempt income from Belgian sources."),
+
+    ("poland-tax-treaty-1040nr",       "🇵🇱","Poland",       "Article 18",  "Student and business apprentice maintenance payments from Polish sources exempt","F-1, J-1","Study period","Polish students and trainees with Polish-source maintenance payments",
+     "Does Poland treaty cover my US university RA pay?","No — Article 18 covers Polish-source payments only. US university RA wages are US-source and taxable.",
+     "How do I claim the Poland treaty?","Schedule OI: Treaty Country = Poland, Treaty Article = 18, exempt income from Polish sources."),
+
+    ("hungary-tax-treaty-1040nr",      "🇭🇺","Hungary",      "Article 19",  "Student maintenance and education payments from Hungarian sources exempt","F-1, J-1","Study period","Hungarian students receiving Hungarian-source maintenance payments",
+     "Does Hungary treaty cover my OPT wages?","No — Article 19 covers Hungarian-source payments. OPT wages from US employers are US-source and taxable.",
+     "How do I claim the Hungary treaty?","Schedule OI: Treaty Country = Hungary, Treaty Article = 19, exempt amount from Hungarian sources."),
+
+    ("czech-republic-tax-treaty-1040nr","🇨🇿","Czech Republic","Article 20", "Student maintenance payments from Czech sources exempt","F-1, J-1","Study period","Czech students and trainees with Czech-source maintenance payments for US study",
+     "Does Czech Republic treaty cover my US stipend?","No — Article 20 covers Czech-source payments only. Stipends from a US university are US-source and taxable.",
+     "How do I claim the Czech Republic treaty?","Schedule OI: Treaty Country = Czech Republic, Treaty Article = 20, exempt amount from Czech sources."),
+
+    ("israel-tax-treaty-1040nr",       "🇮🇱","Israel",       "Article 24",  "Student and business apprentice maintenance and training payments exempt","F-1, J-1","Study period","Israeli students receiving Israeli-source maintenance payments for US study",
+     "Does Israel treaty cover my US university wages?","Article 24 covers payments from Israeli sources. US university wages are US-source and generally taxable.",
+     "How do I claim the Israel treaty?","Schedule OI: Treaty Country = Israel, Treaty Article = 24, exempt amount from Israeli sources."),
+
+    ("turkey-tax-treaty-1040nr",       "🇹🇷","Turkey",       "Article 20",  "Student and business apprentice maintenance payments from Turkish sources exempt","F-1, J-1","Study period","Turkish students receiving Turkish-source maintenance payments for US study",
+     "Does Turkey treaty cover OPT wages?","No — Article 20 covers Turkish-source payments. OPT wages from a US employer are US-source and taxable. You remain FICA exempt.",
+     "How do I claim the Turkey treaty?","Schedule OI: Treaty Country = Turkey, Treaty Article = 20, exempt amount from Turkish sources."),
+
+    ("philippines-tax-treaty-1040nr",  "🇵🇭","Philippines",  "Article 22",  "Student and business apprentice maintenance and training payments exempt","F-1, J-1","Study period","Filipino students and trainees with Philippine-source maintenance payments",
+     "Does Philippines treaty cover my US university stipend?","No — Article 22 covers payments from Philippine sources. US university stipends are US-source and taxable.",
+     "How do I claim the Philippines treaty?","Schedule OI: Treaty Country = Philippines, Treaty Article = 22, exempt amount from Philippine sources."),
+
+    ("indonesia-tax-treaty-1040nr",    "🇮🇩","Indonesia",    "Article 19",  "Student maintenance and education payments from Indonesian sources exempt","F-1, J-1","Study period","Indonesian students and trainees with Indonesian-source maintenance payments",
+     "Does Indonesia treaty cover OPT wages?","No — Article 19 covers Indonesian-source payments. OPT wages from a US employer are US-source and taxable.",
+     "How do I claim the Indonesia treaty?","Schedule OI: Treaty Country = Indonesia, Treaty Article = 19, exempt amount from Indonesian sources."),
+
+    ("thailand-tax-treaty-1040nr",     "🇹🇭","Thailand",     "Article 21",  "Student maintenance payments from Thai sources exempt","F-1, J-1","Study period","Thai students receiving Thai-source maintenance and education payments",
+     "Does Thailand treaty cover my US university TA pay?","No — Article 21 covers Thai-source payments. TA wages from a US university are US-source and taxable.",
+     "How do I claim the Thailand treaty?","Schedule OI: Treaty Country = Thailand, Treaty Article = 21, exempt amount from Thai sources."),
+
+    ("pakistan-tax-treaty-1040nr",     "🇵🇰","Pakistan",     "Article 20",  "Student maintenance and education payments from Pakistani sources exempt","F-1, J-1","Study period","Pakistani students and trainees with Pakistani-source maintenance payments",
+     "Does Pakistan treaty cover OPT wages?","No — Article 20 covers Pakistani-source payments. OPT wages from US employers are US-source and taxable. You remain FICA exempt.",
+     "How do I claim the Pakistan treaty?","Schedule OI: Treaty Country = Pakistan, Treaty Article = 20, exempt amount from Pakistani sources."),
+
+    ("ireland-tax-treaty-1040nr",      "🇮🇪","Ireland",      "Article 20",  "Student and business apprentice maintenance payments from Irish sources exempt","F-1, J-1","Study period","Irish students receiving Irish-source maintenance payments for US study",
+     "Does Ireland treaty cover Trinity College Dublin scholarships?","If your scholarship comes from an Irish source (Irish Research Council, Irish government, Trinity Dublin), Article 20 may apply to maintenance payments.",
+     "How do I claim the Ireland treaty?","Schedule OI: Treaty Country = Ireland, Treaty Article = 20, exempt amount from Irish sources."),
+
+    ("singapore-tax-treaty-1040nr",    "🇸🇬","Singapore",    "Article 21",  "Student and business apprentice maintenance payments from Singapore sources exempt","F-1, J-1","Study period","Singapore students and trainees with Singapore-source maintenance payments",
+     "Does Singapore treaty cover OPT wages?","No — Article 21 covers Singapore-source payments only. OPT wages from US employers are US-source and taxable.",
+     "How do I claim the Singapore treaty?","Schedule OI: Treaty Country = Singapore, Treaty Article = 21, exempt amount from Singapore sources."),
+
+    ("new-zealand-tax-treaty-1040nr",  "🇳🇿","New Zealand",  "Article 19",  "Student maintenance and education payments from NZ sources exempt","F-1, J-1","Study period","New Zealand students and trainees with NZ-source maintenance payments",
+     "Does New Zealand treaty cover US university wages?","No — Article 19 covers NZ-source payments. US university wages are US-source and taxable.",
+     "How do I claim the New Zealand treaty?","Schedule OI: Treaty Country = New Zealand, Treaty Article = 19, exempt amount from NZ sources."),
+
+    ("romania-tax-treaty-1040nr",      "🇷🇴","Romania",      "Article 20",  "Student maintenance and education payments from Romanian sources exempt","F-1, J-1","Study period","Romanian students and trainees with Romanian-source maintenance payments",
+     "Does Romania treaty cover OPT wages?","No — Article 20 covers Romanian-source payments. OPT wages from US employers are US-source and taxable.",
+     "How do I claim the Romania treaty?","Schedule OI: Treaty Country = Romania, Treaty Article = 20, exempt amount from Romanian sources."),
+
+    ("ukraine-tax-treaty-1040nr",      "🇺🇦","Ukraine",      "Article 19",  "Student maintenance and education payments from Ukrainian sources exempt","F-1, J-1","Study period","Ukrainian students with Ukrainian-source maintenance payments for US study",
+     "Does Ukraine treaty cover my US university stipend?","No — Article 19 covers Ukrainian-source payments. US university stipends are US-source and taxable.",
+     "How do I claim the Ukraine treaty?","Schedule OI: Treaty Country = Ukraine, Treaty Article = 19, exempt amount from Ukrainian sources."),
+
     # ── ADD MORE COUNTRIES BELOW ─────────────────────────────────────
     # ("slug","🏳️","Country","Article X","What is exempt","Visa types","Duration","Key note","FAQ1 Q","FAQ1 A","FAQ2 Q","FAQ2 A"),
 ]
