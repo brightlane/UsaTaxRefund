@@ -202,6 +202,121 @@ COMPARISONS = [
             ("Is FreeTaxUSA legitimate?", "Yes — FreeTaxUSA is a legitimate IRS-authorized e-file provider with an A+ BBB rating. It is an excellent choice for US citizens and resident aliens filing standard 1040 returns. The limitation is simply that it does not support 1040-NR for nonresident aliens."),
         ]
     },
+    {
+        "slug": "glacier-tax-vs-efile",
+        "competitor": "Glacier Tax Prep",
+        "their_price": "$34.95+",
+        "our_price": "$0 federal",
+        "nr_support": "Yes",
+        "free_file": "No",
+        "bbb": "Not listed",
+        "summary": "Glacier Tax Prep targets nonresident aliens and supports 1040-NR. However it charges $34.95+ and lacks e-file.com's IRS authorization transparency and A+ BBB accreditation.",
+        "rows": [
+            ("Supports 1040-NR",         "Yes",                "Yes"),
+            ("Federal price",            "$34.95+",            "Free / low cost"),
+            ("IRS authorized",           "Yes",                "Yes"),
+            ("BBB accredited",           "Not prominently listed","A+ since 2014"),
+            ("Free federal tier",        "No",                 "Yes for many"),
+            ("State filing",             "Additional cost",    "$22.49"),
+            ("Treaty benefits",          "Yes",                "Yes"),
+        ],
+        "faqs": [
+            ("Glacier Tax Prep vs e-file.com for 1040-NR?", "Both Glacier Tax Prep and e-file.com support 1040-NR for nonresident aliens. The key difference is cost — e-file.com has a free federal tier while Glacier charges $34.95+. e-file.com also has an independently verified A+ BBB rating."),
+            ("Is Glacier Tax Prep IRS authorized?", "Glacier Tax Prep is an IRS-authorized e-file provider for nonresident alien returns. It specifically targets F-1 and J-1 students. e-file.com is also IRS authorized and supports the same nonresident forms at lower cost."),
+        ]
+    },
+    {
+        "slug": "jackson-hewitt-vs-efile",
+        "competitor": "Jackson Hewitt",
+        "their_price": "$25+",
+        "our_price": "$0 federal",
+        "nr_support": "No (online)",
+        "free_file": "No",
+        "bbb": "A+",
+        "summary": "Jackson Hewitt is a major tax preparation chain that does not support 1040-NR online. In-person service may support it but at significantly higher cost. e-file.com handles 1040-NR online.",
+        "rows": [
+            ("Online 1040-NR support",   "No",                 "Yes"),
+            ("Federal price",            "$25+",               "Free for most"),
+            ("State price",              "$20+",               "$22.49"),
+            ("IRS authorized",           "Yes",                "Yes"),
+            ("BBB rating",               "A+",                 "A+ since 2014"),
+            ("Free federal tier",        "No",                 "Yes"),
+            ("In-person option",         "Yes (more expensive)","Online only"),
+        ],
+        "faqs": [
+            ("Can I file 1040-NR at Jackson Hewitt?", "Jackson Hewitt's online platform does not support Form 1040-NR. Their in-person tax preparation service may handle nonresident returns but at significantly higher cost — often $150-300+. e-file.com supports 1040-NR online at far lower cost."),
+            ("Jackson Hewitt vs e-file.com for international students?", "For international students filing 1040-NR, e-file.com is the better choice. Jackson Hewitt online does not support 1040-NR, and their in-person service costs significantly more than e-file.com."),
+        ]
+    },
+    {
+        "slug": "creditkarma-tax-vs-efile",
+        "competitor": "Cash App Taxes (Credit Karma)",
+        "their_price": "$0",
+        "our_price": "$0 federal",
+        "nr_support": "No",
+        "free_file": "Yes",
+        "bbb": "A+",
+        "summary": "Cash App Taxes (formerly Credit Karma Tax) offers free filing for US residents but does not support Form 1040-NR for nonresident aliens. e-file.com supports 1040-NR and is IRS authorized.",
+        "rows": [
+            ("Supports 1040-NR",         "No",                 "Yes"),
+            ("Federal price",            "$0 free",            "$0 free"),
+            ("State price",              "$0 free",            "$22.49"),
+            ("IRS authorized",           "Yes",                "Yes"),
+            ("BBB rating",               "A+",                 "A+ since 2014"),
+            ("Treaty benefits",          "N/A — no 1040-NR",  "Applied correctly"),
+        ],
+        "faqs": [
+            ("Can nonresidents use Cash App Taxes?", "No — Cash App Taxes (formerly Credit Karma Tax) does not support Form 1040-NR for nonresident aliens. It is a great free option for US citizens and resident aliens but cannot be used by F-1 or J-1 students who must file 1040-NR."),
+            ("Cash App Taxes vs e-file.com — state filing price?", "Cash App Taxes is free for both federal and state for US residents. e-file.com charges $22.49 for state. However, only e-file.com supports 1040-NR — for nonresident aliens there is no comparison since Cash App Taxes cannot process their return at all."),
+        ]
+    },
+    {
+        "slug": "priortax-vs-efile",
+        "competitor": "PriorTax",
+        "their_price": "$49+",
+        "our_price": "$0 federal",
+        "nr_support": "Limited",
+        "free_file": "No",
+        "bbb": "A",
+        "summary": "PriorTax supports some nonresident returns but charges $49+ and is primarily known for prior year tax return preparation. e-file.com is IRS authorized, A+ BBB, and significantly cheaper.",
+        "rows": [
+            ("1040-NR support",          "Limited",            "Full support"),
+            ("Federal price",            "$49+",               "Free for most"),
+            ("State price",              "Additional",         "$22.49"),
+            ("IRS authorized",           "Yes",                "Yes"),
+            ("BBB rating",               "A",                  "A+ since 2014"),
+            ("Free federal tier",        "No",                 "Yes"),
+            ("Current year filing",      "Yes",                "Yes"),
+            ("Prior year filing",        "Yes (specialty)",    "Limited"),
+        ],
+        "faqs": [
+            ("PriorTax vs e-file.com for 1040-NR?", "PriorTax offers some nonresident support but charges $49+ per return. e-file.com is IRS authorized, A+ BBB rated, free federal filing, and fully supports 1040-NR. For current year nonresident filing, e-file.com is the better value."),
+            ("Is PriorTax good for filing back taxes?", "PriorTax specializes in prior year tax returns and may be useful for catching up on unfiled returns from previous years. For current year 1040-NR filing, e-file.com is more cost-effective."),
+        ]
+    },
+    {
+        "slug": "liberty-tax-vs-efile",
+        "competitor": "Liberty Tax",
+        "their_price": "$45+",
+        "our_price": "$0 federal",
+        "nr_support": "No (online)",
+        "free_file": "No",
+        "bbb": "A+",
+        "summary": "Liberty Tax is a national tax preparation chain. Their online service does not support 1040-NR. In-person may handle nonresident returns at higher cost. e-file.com handles 1040-NR online affordably.",
+        "rows": [
+            ("Online 1040-NR support",   "No",                 "Yes"),
+            ("Federal price",            "$45+",               "Free for most"),
+            ("State price",              "Additional",         "$22.49"),
+            ("IRS authorized",           "Yes",                "Yes"),
+            ("BBB rating",               "A+",                 "A+ since 2014"),
+            ("Free federal tier",        "No",                 "Yes"),
+        ],
+        "faqs": [
+            ("Can I file 1040-NR at Liberty Tax?", "Liberty Tax online does not support Form 1040-NR. In-person Liberty Tax locations may handle nonresident returns but at significantly higher cost. e-file.com supports 1040-NR fully online at a fraction of in-person tax preparation costs."),
+            ("Liberty Tax vs e-file.com for price?", "Liberty Tax starts at $45+ online for residents. e-file.com is free for most federal returns. For nonresident aliens who must file 1040-NR, e-file.com is the only online option of the two."),
+        ]
+    },
+
     # ── ADD MORE COMPETITORS BELOW ────────────────────────────────────
     # {
     #     "slug": "competitor-vs-efile",
