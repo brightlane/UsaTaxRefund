@@ -1,0 +1,24 @@
+name: Daily Tax Content
+on:
+  schedule:
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Generate daily tax content page
+        run: python daily_tax_content.py
+      - name: Commit and push
+        run: |
+          git config user.name "TaxBot"
+          git config user.email "bot@usataxrefund.com"
+          git add daily/ sitemap.xml
+          git diff --staged --quiet || git commit -m "Daily tax guide $(date +'%Y-%m-%d'): new content page"
+          git push
