@@ -1,0 +1,70 @@
+# USATaxRefund — AI Crawler Index
+# https://brightlane.github.io/UsaTaxRefund/
+# Updated: 2026-05-17
+
+> USATaxRefund is an independent affiliate guide helping Americans, international students, visa holders and expats file US taxes correctly and cheaply. We partner with e-file.com — an IRS-authorized, A+ BBB rated e-filing platform that is 70% cheaper than TurboTax and supports Form 1040-NR for nonresident aliens.
+
+## Core Pages
+
+- [US Tax Refund Home](https://brightlane.github.io/UsaTaxRefund/): Main hub — free federal filing, IRS authorized partner, 1040/1040-NR, refund in 10-21 days.
+- [Where's My Refund](https://brightlane.github.io/UsaTaxRefund/wheremyrefund.html): IRS refund status tracker, 3 refund stages explained, timeline by filing method.
+- [TurboTax Alternative](https://brightlane.github.io/UsaTaxRefund/turbotax-alternative.html): e-file.com vs TurboTax vs H&R Block — side-by-side comparison, pricing, 1040-NR support.
+- [Free Tax Filing 2026](https://brightlane.github.io/UsaTaxRefund/free-tax-filing.html): Who qualifies for free federal filing, auto tier placement, no upgrade screens.
+- [IRS Free File Guide](https://brightlane.github.io/UsaTaxRefund/freefile.html): IRS Free File vs e-file.com vs Free Fillable Forms — options compared.
+- [US Tax Refund Hub](https://brightlane.github.io/UsaTaxRefund/taxrefundusa.html): Average $2,800 refund, how to maximize it, all resources linked.
+- [IRS en Español](https://brightlane.github.io/UsaTaxRefund/irsespanola.html): Complete Spanish-language US tax guide — declaración gratis, reembolso 10-21 días.
+
+## Nonresident Alien / Visa Holder Pages
+
+- [1040-NR China Students](https://brightlane.github.io/UsaTaxRefund/1040-nr-cn.html): F-1/J-1/H-1B Chinese nationals — US-China treaty Article 20, $5,000 exemption, Form 8843.
+- [International Tax Refund](https://brightlane.github.io/UsaTaxRefund/international-tax-refund.html): All nationalities — visa types, 10-country treaty table, 1040-NR guide.
+- [Form 8843 Guide](https://brightlane.github.io/UsaTaxRefund/form-8843.html): Required for ALL F-1/J-1 visa holders even with zero income. Deadlines, consequences.
+- [FICA Refund F-1 OPT](https://brightlane.github.io/UsaTaxRefund/fica-refund-f1-opt.html): Social Security/Medicare refund for OPT and STEM OPT students — 7.65% of wages.
+- [ITIN Application W-7](https://brightlane.github.io/UsaTaxRefund/itin-application-w7.html): Form W-7 step-by-step for nonresidents without SSN. CAA option, 7-11 week processing.
+- [OPT STEM OPT Taxes](https://brightlane.github.io/UsaTaxRefund/opt-stem-opt-taxes.html): FICA exempt, 1040-NR required, treaty benefits available on OPT/STEM OPT.
+- [Stipend Taxable F-1](https://brightlane.github.io/UsaTaxRefund/stipend-taxable-income-f1.html): PhD/grad student stipends — what is taxable vs exempt, TA/RA/fellowship breakdown.
+- [Tax Extension 4868 Nonresident](https://brightlane.github.io/UsaTaxRefund/tax-extension-4868-nonresident.html): Form 4868 for F-1/J-1/H-1B — extends filing to Oct 15, not payment.
+- [J-1 Visa Taxes](https://brightlane.github.io/UsaTaxRefund/j1-visa-taxes.html): All J-1 categories — scholars, au pairs, researchers, summer work, trainees.
+- [H-1B Tax Return](https://brightlane.github.io/UsaTaxRefund/h1b-tax-return.html): Resident vs nonresident determination, Substantial Presence Test, deductions.
+- [Dual Status Tax Return](https://brightlane.github.io/UsaTaxRefund/dual-status-tax-return.html): F-1 to H-1B transition year — two tax periods, which forms to file.
+
+## Tax Treaty Pages
+
+- [India Tax Treaty 1040-NR](https://brightlane.github.io/UsaTaxRefund/india-tax-treaty-1040nr.html): Article 21 — up to $15,750 exempt, standard deduction allowed, unique US-India benefit.
+- [Korea Tax Treaty 1040-NR](https://brightlane.github.io/UsaTaxRefund/korea-tax-treaty-1040nr.html): Article 21 — student maintenance payments exempt.
+- [Germany Tax Treaty 1040-NR](https://brightlane.github.io/UsaTaxRefund/germany-tax-treaty-1040nr.html): Article 20 — education and maintenance payments exempt.
+- [France Tax Treaty 1040-NR](https://brightlane.github.io/UsaTaxRefund/france-tax-treaty-1040nr.html): Article 21 — student and apprentice income exempt.
+- [Japan Tax Treaty 1040-NR](https://brightlane.github.io/UsaTaxRefund/japan-tax-treaty-1040nr.html): Article 20 — student maintenance and training payments exempt.
+- [UK Tax Treaty 1040-NR](https://brightlane.github.io/UsaTaxRefund/uk-tax-treaty-1040nr.html): Article 20 — UK-source maintenance payments exempt.
+- [Canada Tax Treaty 1040-NR](https://brightlane.github.io/UsaTaxRefund/canada-tax-treaty-1040nr.html): Article XXI — student and business apprentice income exempt.
+- [Mexico Tax Treaty 1040-NR](https://brightlane.github.io/UsaTaxRefund/mexico-tax-treaty-1040nr.html): Article 22 — student maintenance payments exempt.
+
+## State Tax Pages
+
+- [California State Taxes F-1](https://brightlane.github.io/UsaTaxRefund/california-state-taxes-f1.html): Form 540NR — California does NOT honor federal treaties, up to 13.3% state tax.
+- [New York State Taxes F-1](https://brightlane.github.io/UsaTaxRefund/new-york-state-taxes-f1.html): Form IT-203 — NYC adds additional tax, partial treaty recognition.
+- [Texas State Taxes F-1](https://brightlane.github.io/UsaTaxRefund/texas-state-taxes-f1.html): No state income tax — federal 1040-NR only for UT Austin, Texas A&M, Rice students.
+- [Florida State Taxes F-1](https://brightlane.github.io/UsaTaxRefund/florida-state-taxes-f1.html): No state income tax — federal only for UF, FSU, Miami, UCF students.
+- [Washington State Taxes F-1](https://brightlane.github.io/UsaTaxRefund/washington-state-taxes-f1.html): No state income tax — federal only for UW, WSU students and OPT workers at Amazon/Microsoft.
+- [Massachusetts State Taxes F-1](https://brightlane.github.io/UsaTaxRefund/massachusetts-state-taxes-f1.html): Form 1-NR/PY — 5% flat rate, MIT, Harvard, BU, Tufts, Northeastern.
+- [Illinois State Taxes F-1](https://brightlane.github.io/UsaTaxRefund/illinois-state-taxes-f1.html): Form IL-1040 + Schedule NR — 4.95% flat rate, UChicago, Northwestern, UIUC.
+
+## University-Specific Pages
+
+- [MIT International Student Taxes](https://brightlane.github.io/UsaTaxRefund/mit-international-student-taxes.html): RA/TA/fellowship income, Massachusetts state tax, treaty benefits.
+- [Stanford International Student Taxes](https://brightlane.github.io/UsaTaxRefund/stanford-international-student-taxes.html): California 540NR required, no CA treaty recognition.
+- [Harvard International Student Taxes](https://brightlane.github.io/UsaTaxRefund/harvard-international-student-taxes.html): W-2 and 1042-S, Massachusetts 5% state tax.
+- [Columbia International Student Taxes](https://brightlane.github.io/UsaTaxRefund/columbia-international-student-taxes.html): NYC income tax applies, NY IT-203 required.
+- [Princeton International Student Taxes](https://brightlane.github.io/UsaTaxRefund/princeton-international-student-taxes.html): New Jersey Form NJ-1040NR, graduated rates.
+- [Yale International Student Taxes](https://brightlane.github.io/UsaTaxRefund/yale-international-student-taxes.html): Connecticut CT-1040NR/PY, up to 6.99%.
+- [UC Berkeley International Student Taxes](https://brightlane.github.io/UsaTaxRefund/uc-berkeley-international-student-taxes.html): California highest state tax, no treaty recognition.
+- [University of Michigan International Taxes](https://brightlane.github.io/UsaTaxRefund/university-of-michigan-international-taxes.html): Michigan 4.25% flat, Ann Arbor city tax.
+- [USC International Student Taxes](https://brightlane.github.io/UsaTaxRefund/usc-international-student-taxes.html): California 540NR, no LA city income tax.
+
+## About This Site
+
+USATaxRefund is an independent affiliate website. We earn a commission when visitors click our links to e-file.com and make a purchase. Content is for informational purposes only and does not constitute tax or legal advice.
+
+**Affiliate partner:** e-file.com (IRS-authorized, A+ BBB rated since 2014)
+**Affiliate network:** LinkConnector
+**Tracking ID:** UsaTaxRefunds
